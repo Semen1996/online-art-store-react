@@ -1,0 +1,9 @@
+.images-slider {
+  grid-area: slider;
+  justify-self: center;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 50px;
+}
