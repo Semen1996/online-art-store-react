@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/online-art-store-react/static/css/main.b2561ccc.css",
+    "main.js": "/online-art-store-react/static/js/main.fbaf4549.js",
+    "static/js/787.ffda4632.chunk.js": "/online-art-store-react/static/js/787.ffda4632.chunk.js",
+    "static/media/Merriweather-Regular.eot": "/online-art-store-react/static/media/Merriweather-Regular.da2acf1ca90733f3c3a4.eot",
+    "static/media/Merriweather-Regular.ttf": "/online-art-store-react/static/media/Merriweather-Regular.bebc6d8ae4357b5db389.ttf",
+    "static/media/Merriweather-Light.eot": "/online-art-store-react/static/media/Merriweather-Light.e93b2b0c7ef3af4171f0.eot",
+    "static/media/Merriweather-Light.ttf": "/online-art-store-react/static/media/Merriweather-Light.432a6ba0b699a1c47a62.ttf",
+    "static/media/Merriweather-Bold.eot": "/online-art-store-react/static/media/Merriweather-Bold.532af6497cbbfc407bcb.eot",
+    "static/media/Merriweather-Bold.ttf": "/online-art-store-react/static/media/Merriweather-Bold.c5356d559a196af5673b.ttf",
+    "static/media/The_Birth_of_Venus.png": "/online-art-store-react/static/media/The_Birth_of_Venus.c00d2013557a343fe5d6.png",
+    "static/media/The_Last_Supper.png": "/online-art-store-react/static/media/The_Last_Supper.72abfa34f780e7684d47.png",
+    "static/media/The_Creation_of_Adam.png": "/online-art-store-react/static/media/The_Creation_of_Adam.64cf1c761a745d1b367b.png",
+    "static/media/Merriweather-Regular.woff": "/online-art-store-react/static/media/Merriweather-Regular.2b68e34f2d04653e1391.woff",
+    "static/media/Merriweather-Light.woff": "/online-art-store-react/static/media/Merriweather-Light.19d41aa4274948a1282d.woff",
+    "static/media/Merriweather-Bold.woff": "/online-art-store-react/static/media/Merriweather-Bold.a4766ae732c0225be3c4.woff",
+    "static/media/The_Anatomy_Lesson.png": "/online-art-store-react/static/media/The_Anatomy_Lesson.c835d7b0ac4ec4bbccae.png",
+    "static/media/Merriweather-Regular.woff2": "/online-art-store-react/static/media/Merriweather-Regular.3e4287a5e8e0393807b8.woff2",
+    "static/media/Merriweather-Bold.woff2": "/online-art-store-react/static/media/Merriweather-Bold.998e81fa4802916b1931.woff2",
+    "static/media/Merriweather-Light.woff2": "/online-art-store-react/static/media/Merriweather-Light.71cb98fccbe3351fc308.woff2",
+    "static/media/phone.svg": "/online-art-store-react/static/media/phone.806d72c6ec9d53637bba0aab2773f27b.svg",
+    "index.html": "/online-art-store-react/index.html",
+    "static/media/adress.svg": "/online-art-store-react/static/media/adress.bf38d1b4341a2aa87d3a9022b78f6bea.svg",
+    "static/media/check.svg": "/online-art-store-react/static/media/check.1c9627751f2b7715d674.svg",
+    "main.b2561ccc.css.map": "/online-art-store-react/static/css/main.b2561ccc.css.map",
+    "main.fbaf4549.js.map": "/online-art-store-react/static/js/main.fbaf4549.js.map",
+    "787.ffda4632.chunk.js.map": "/online-art-store-react/static/js/787.ffda4632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2561ccc.css",
+    "static/js/main.fbaf4549.js"
+  ]
+}
