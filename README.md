@@ -23,7 +23,7 @@
 Скопируйте проект к себе с помощью команды
 
 ```
-git clone git@github.com:Semen1996/online-art-store.git
+git clone git@github.com:Semen1996/online-art-store-react.git
 ```
 
 Установить зависимости:
